@@ -8,3 +8,5 @@ Linear dynamics used in simulation are defined in acft_dynamics.py
 
 For testing using XPlane 11, first follow instructions at https://github.com/nasa/XPlaneConnect to install XPlane Connect.
 Run ATHENA_XPlane11.py to test controller using non-linear dynamics in XPlane. Performance still requires tuning.
+
+Full paper, written in collaboration with Sigurd Kvaal and Filip Andersen is available at https://lnkd.in/gjGevNnS
